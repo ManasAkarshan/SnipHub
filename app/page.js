@@ -63,7 +63,7 @@ function Buttons() {
           </Link>
           <Link href="/sign-up">
             <button
-              className={`text-sm border border-[#38ec83] text-[#38ec83] hover:bg-[${mainColor}] hover:text-white p-[8px] px-6 rounded-md`}
+              className={`text-sm border border-[#38ec83] text-[#38ec83] hover:bg-[${mainColor}]  p-[8px] px-6 rounded-md`}
             >
               Sign up
             </button>
